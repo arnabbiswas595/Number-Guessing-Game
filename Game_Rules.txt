@@ -1,4 +1,4 @@
-                                              |---->NUMBER GUESSING GAME RULES! <----|  
+                                              |---->NUMBER GUESSING GAME RULES! <----|
 
 1. Computer will pick a secret random number between 1 and 100.
 2. Try to guess it in as few attempts as possible!
