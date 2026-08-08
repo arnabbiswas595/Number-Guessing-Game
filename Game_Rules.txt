@@ -1,0 +1,5 @@
+1. Computer will pick a secret random number between 1 and 100.
+2. Try to guess it in as few attempts as possible!
+3. You will get hints like 'Higher' or 'Lower' after each guess.
+4. In Group Mode, whoever guesses in fewer tries wins!
+5. In case of a tie in guess count, time is the tiebreaker. 
