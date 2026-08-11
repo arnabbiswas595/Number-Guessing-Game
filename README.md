@@ -85,4 +85,4 @@ This project was created to improve my understanding of:
 
 **Arnab Biswas**  
 **EEE** Student at
-**BEC,Faculty of Engineering & Technology, University of Dhaka**
+**BEC, Faculty of Engineering & Technology, University of Dhaka**
