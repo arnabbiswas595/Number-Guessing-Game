@@ -84,5 +84,5 @@ This project was created to improve my understanding of:
 ## Author
 
 **Arnab Biswas**  
-EEE Student
-BEC,Faculty of Engineering & Technology, University of Dhaka
+**EEE** Student at
+**BEC,Faculty of Engineering & Technology, University of Dhaka**
